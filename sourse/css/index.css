@@ -1,0 +1,36 @@
+body{
+  background-image: url(https://img.freepik.com/premium-photo/purple-blue-pink-flowers-paper_176873-6998.jpg);
+  background-size: 100%;
+  text-align: center;
+  font-size: large;
+  font-family: cursive;
+}
+.container {
+  max-width: 98%;
+}
+.click{
+ margin: 10px  auto;
+ max-width: 600px;
+}
+a{
+  margin: 5px 4%;
+  padding: 9px 15%;
+  background-color: #CB9DF0;
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  min-width: 66px;
+  border: 1px black solid;
+}
+a:hover{
+    background-color: #590c98;
+    background-color: #b261f5;
+    color:white;
+}
+iframe{
+  margin-bottom: 27px;
+  max-width: 100%;
+  border: blue 1px solid;
+  width: 578px;
+  height: 621px;
+}

@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMThiYXRjaDktYXVtLTA2XzEuanBn.jpg);
+    background-size: 100%;
+    font-size: large;
+    font-family: cursive;
+}
+form *{
+    max-width: 66%;
+    margin: 20px 0px;
+    padding: 10px;
+    background-color: #CB9DF0;
+    font-size: large;
+}
+form p, .error{
+    text-align: center;
+    background-color: transparent;
+    max-width: 98%;
+    color: brown;
+}
+form label{
+    margin: 20px 5px;
+    padding: 10px;
+    background-color: #cb9df000;
+    font-size: large;
+}
+form input[type="submit"]{
+    max-width: 100%;
+    width: 350px;
+}
+select{
+    width: 237px;
+}
+#photo , #file{
+ width:191px;
+}
+form a{
+    width: 347px;
+    max-width: 100%;
+    border: 2px solid black;
+    text-decoration: none;
+    color: black;
+    display: block;
+    margin: auto;
+    padding: 8px 0px;
+}
+a:hover, form input[type="submit"]:hover{
+    background-color: #74459a;
+    color:white;
+}
+h1{
+    font-size: 30px;
+}
+.code{
+    display:none;
+    max-width: 100%; 
+    margin: -2px 0 -27px;
+    padding: 0px;
+    background-color: #cb9df000;
+}
+/*https://github.com/mohamed97163/IEEE/tree/main/IEEE%20TASK*/
